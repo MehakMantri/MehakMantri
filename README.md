@@ -1,6 +1,6 @@
-# 💫 About Me:
+# 💫 About Me:<img align="right" alt="coding" width="400"  height="600" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNuqstlT4dQs_seEojtqb7TBkudwkoTNApbeZ7Biru_rEVb9MufEYSMoG6pNF88U8i3Yg&usqp=CAU">
 👋Hello world, I'm Mehak !<br>🔭 I’m currently working on EduVerse<br>🌱 I’m currently learning Linux<br>⚡ Other Interests:  COD | Suduko | Sketching<br>💬 Let's connect and collaborate! <br>You can reach me at itsmehak27@gmail.com
-<img align="right" alt="coding" width="400"  height="600" src="https://i.pinimg.com/736x/54/f7/37/54f737502df8f8f7333ac3a073a392c3.jpg">
+
 
 
 ## 🌐 Socials:
