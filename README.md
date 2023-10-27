@@ -18,11 +18,11 @@
 
 [![An image of @mehakmantri's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mehakmantri)](https://holopin.io/@mehakmantri)
 
-//### ✍️ Random Dev Quote
-//![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MehakMantri&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!--### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MehakMantri&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
