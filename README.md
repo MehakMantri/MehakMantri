@@ -16,12 +16,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MehakMantri&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<a href="https://holopin.com/badge/mehakmantri">
-  <img src="https://holopin.io/@mehakmantri" alt="Your Achievement Badge">
-</a>
+[![An image of @mehakmantri's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mehakmantri)](https://holopin.io/@mehakmantri)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+//### ✍️ Random Dev Quote
+//![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MehakMantri&limit=5&theme=dark&combine_all_yearly_contributions=true)
