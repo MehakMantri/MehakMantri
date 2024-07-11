@@ -1,5 +1,5 @@
 # 💫 About Me:<img align="right" alt="coding" width="400"   src="https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?auto=format&fit=crop&q=80&w=1000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Z2l0aHVifGVufDB8fDB8fHww">
-👋Hello world, I'm Mehak !<br>🔭 I’m currently working on EduVerse<br>⚡ Other Interests:  COD | Suduko | Sketching<br>💬 Let's connect and collaborate! <br>You can reach me at itsmehak27@gmail.com
+👋Hello world, I'm Mehak !<br>🔭 I’m currently working on SportsBuddy<br>⚡ Other Interests:  COD | Suduko | Sketching<br>💬 Let's connect and collaborate! <br>You can reach me at itsmehak27@gmail.com
 
 
 
